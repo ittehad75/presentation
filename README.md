@@ -1,2 +1,2 @@
 # presentation
-using MS Powerpoint
+# using MS Powerpoint
